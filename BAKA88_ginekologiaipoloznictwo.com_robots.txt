@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.ginekologiaipoloznictwo.com/articles/slot-online/sitemap.xml
