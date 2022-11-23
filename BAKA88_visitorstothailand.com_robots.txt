@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://visitorstothailand.com/advertise/slot-online/sitemap.xml
