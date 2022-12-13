@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.iomcworld.org/articles/slot-demo/sitemap.xml
