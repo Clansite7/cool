@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tkr.go.th/wp-content/uploads/%E0%B9%84%E0%B8%AE%E0%B9%82%E0%B8%A5%E0%B9%84%E0%B8%97%E0%B8%A2/sitemap.xml
