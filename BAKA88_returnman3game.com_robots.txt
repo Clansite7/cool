@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://returnman3game.com/wp-content/uploads/casino-slot-online\\sitemap.xml
