@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.uniabeu.edu.br/wp-content/plugins/casino-slot-online/sitemap.xml
