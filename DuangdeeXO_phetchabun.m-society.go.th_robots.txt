@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://phetchabun.m-society.go.th/wp-content/uploads/pg-slot/sitemap.xml
