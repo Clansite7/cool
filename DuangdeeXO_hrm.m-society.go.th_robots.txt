@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hrm.m-society.go.th/wp-content/uploads/promo/sitemap.xml
