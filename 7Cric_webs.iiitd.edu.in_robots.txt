@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://webs.iiitd.edu.in/rhome/web/teen-patti-real-cash/sitemap.xml
