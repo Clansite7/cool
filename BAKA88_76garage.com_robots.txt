@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://76garage.com/images/demo-slot-gates-of-gatot-kaca/sitemap.xml
