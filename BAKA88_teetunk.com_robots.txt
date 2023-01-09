@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://www.teetunk.com/phuket/shop/demo-slot-gates-of-gatot-kaca/sitemap.xml
