@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bestquicksoft.com/wp-content/uploads/slot-demo-gates-of-gatot-kaca/sitemap.xml
