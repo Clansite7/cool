@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guiaescolar.mx/admin/slot-gacor/sitemap.xml
